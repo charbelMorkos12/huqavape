@@ -1,0 +1,12 @@
+export { default as Footer } from './Footer';
+export { default as Layout } from './Layout';
+export { default as Navbar } from './Navbar';
+export { default as Product } from './Product';
+export { default as HeroBanner } from './HeroBanner';
+export { default as FooterBanner } from './FooterBanner';
+export { default as Cart } from './Cart';
+export { default as Device } from './Device';
+export { default as Disposable } from './Disposable';
+export { default as Juice } from './Juice';
+export { default as Accessorie } from './Accessorie';
+export { default as Loader } from './Loader';
